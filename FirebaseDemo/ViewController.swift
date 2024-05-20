@@ -20,7 +20,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-//        appendItem()
+        appendItem()
 //        loadItem()
     }
     
